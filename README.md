@@ -1,30 +1,6 @@
-# hello
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-
-After you're finished please remove all the comments and instructions!
--->
-
-  
-
-  <h3><b>Hello README </b></h3>
+  <h3><b>Roger Readme File</b></h3>
 
 </div>
 
@@ -49,22 +25,21 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Roger] <a name="about-project"></a>
+# 📖 [Roger Hello] <a name="about-roger lello"></a>
 
-> This is a project for my second day in microverse.
+>This is a project of day 2 in microverse
 
-**[hello roger]** is a beautiful project
+**[Roger hello]** is my first web development
 
-## 🛠 Built With <a name="React.js"></a>
+## 🛠 Built With <a name="html and css"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> For this project I use html and css.
 
 <details>
   <summary>Client</summary>
@@ -93,9 +68,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[beautiful colors]**
-- **[beautiful background]**
+- **[awesome colors]**
 - **[beautiful name]**
+- **[special background]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +80,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://rogeliomonterde.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,41 +88,35 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> This is only the start you can use this template as you wish
 
 To get a local copy up and running, follow these steps.
-
+Login into github
+Clone te repository using git
+Manipulate this template with visual studio code
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+html 
+css
+visual studio
+git
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:rogeliomonterde/hello-roger-microverse.git
 ```
 --->
 
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
 
 ```sh
   cd my-project
@@ -159,9 +128,6 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
   rails server
 ```
@@ -171,9 +137,6 @@ Example command:
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
 ```sh
   bin/rails test test/models/article_test.rb
 ```
@@ -182,9 +145,6 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-
-<!--
-Example:
 
 ```sh
 
@@ -201,15 +161,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/rogeliomonterde)
+- Twitter: [@twitterhandle](https://twitter.com/rogeliomonterde)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/rogeliomonterde)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,9 +173,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[a new slider]**
+- [ ] **[register form]**
+- [ ] **[responsive images]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,7 +185,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](www.rogeliomonterde.com).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -239,9 +193,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> 
 
-If you like this project...
+If you like this project please let me now, it will help me a lot, so that I continue learning
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -251,10 +205,25 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my learning partners and microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[what is the next step?]**
+
+  - [The next step is to make this project even more awesome]
+
+- **[Can I use this code on my page?]**
+
+  - [Of course you can use it, it is a gift]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
