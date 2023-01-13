@@ -105,7 +105,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](http://127.0.0.1:5500/index.html)
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,10 +113,10 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To use this project you need to be very clever.
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
-Install
+
 ### Prerequisites
 
 In order to run this project you need:
@@ -132,7 +132,6 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-
 <!--
 Example commands:
 
@@ -145,10 +144,9 @@ Example commands:
 ### Install
 
 Install this project with:
-Github
+
 <!--
 Example command:
-
 ```sh
   cd my-project
   gem install
@@ -159,9 +157,6 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
   rails server
 ```
@@ -171,9 +166,6 @@ Example command:
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
 ```sh
   bin/rails test test/models/article_test.rb
 ```
@@ -182,10 +174,6 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-
-<!--
-Example:
-
 ```sh
 
 ```
@@ -206,6 +194,11 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rogeliomonterde)
 
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,4 +253,3 @@ This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
