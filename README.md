@@ -1,6 +1,30 @@
+# hello
 <a name="readme-top"></a>
 
-  <h3><b>Roger Readme File</b></h3>
+<!--
+HOW TO USE:
+
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+
+After you're finished please remove all the comments and instructions!
+-->
+
+  
+
+  <h3><b>Hello README </b></h3>
 
 </div>
 
@@ -25,21 +49,22 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Roger Hello] <a name="about-roger lello"></a>
+# 📖 [Hello Roger] <a name="about-project"></a>
 
->This is a project of day 2 in microverse
+> This is a project for my second day in microverse.
 
-**[Roger hello]** is my first web development
+**[hello roger]** is a beautiful project
 
-## 🛠 Built With <a name="html and css"></a>
+## 🛠 Built With <a name="React.js"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> For this project I use html and css.
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -68,9 +93,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[awesome colors]**
+- **[beautiful colors]**
+- **[beautiful background]**
 - **[beautiful name]**
-- **[special background]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +105,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://rogeliomonterde.com)
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,29 +113,31 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This is only the start you can use this template as you wish
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
-Login into github
-Clone te repository using git
-Manipulate this template with visual studio code
+
 ### Prerequisites
 
 In order to run this project you need:
 
-html 
-css
-visual studio
-git
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-
+<!--
+Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:rogeliomonterde/hello-roger-microverse.git
+  git clone git@github.com:myaccount/my-project.git
 ```
 --->
 
@@ -118,6 +145,8 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
+<!--
+Example command:
 ```sh
   cd my-project
   gem install
@@ -145,7 +174,6 @@ To run tests, run the following command:
 ### Deployment
 
 You can deploy this project using:
-
 ```sh
 
 ```
@@ -165,6 +193,13 @@ You can deploy this project using:
 - Twitter: [@twitterhandle](https://twitter.com/rogeliomonterde)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rogeliomonterde)
 
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -173,9 +208,9 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[a new slider]**
-- [ ] **[register form]**
-- [ ] **[responsive images]**
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +220,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](www.rogeliomonterde.com).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,9 +228,9 @@ Feel free to check the [issues page](www.rogeliomonterde.com).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> 
+> Write a message to encourage readers to support your project
 
-If you like this project please let me now, it will help me a lot, so that I continue learning
+If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,25 +240,10 @@ If you like this project please let me now, it will help me a lot, so that I con
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank my learning partners and microverse
+I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[what is the next step?]**
-
-  - [The next step is to make this project even more awesome]
-
-- **[Can I use this code on my page?]**
-
-  - [Of course you can use it, it is a gift]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -232,5 +252,3 @@ I would like to thank my learning partners and microverse
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
